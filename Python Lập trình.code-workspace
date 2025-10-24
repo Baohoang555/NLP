@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "Python Lập trình",
+			"path": "../Python Lập trình"
+		},
+		{
+			"name": "Projects Final",
+			"path": "../Projects Final"
+		},
+		{
+			"name": "Data Cleaning",
+			"path": "../Data Cleaning"
+		},
+		{
+			"path": "../EDA Pandas"
+		},
+		{
+			"path": "../Hồi quy tuyến tính ( Linear Regression)"
+		},
+		{
+			"path": "../LeetCode"
+		},
+		{
+			"path": "../TIME SERIES FORECASTING BITCOIN UP DOWN"
+		},
+		{
+			"path": "C:/Users/PC/Downloads/PatchTST-main/PatchTST-main"
+		},
+		{
+			"path": "../HASKELL"
+		},
+		{
+			"path": "../LTH FINAL"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
